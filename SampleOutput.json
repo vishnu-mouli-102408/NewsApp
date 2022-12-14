@@ -1,0 +1,69 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Eugene Robinson",
+      "title": "This World Cup is thrilling. That’s a problem.",
+      "description": "The more exciting and engaging the tournament, the more effective it is at sportswashing Qatar's human rights abuses.",
+      "url": "https://www.washingtonpost.com/opinions/2022/12/12/world-cup-qatar-sportswashing-morocco/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFW6Z7UUVFATBOGCYK7W7E6LEA.jpg&w=1440",
+      "publishedAt": "2022-12-12T22:43:58Z",
+      "content": "Comment on this story\r\nSoccers quadrennial World Cup, reaching its climactic stages this week in Qatar, demonstrates an inescapable, regrettable fact: Sportswashing, the use of athletic competition t… [+4677 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Eight finalists named for BBC Unsung Hero award",
+      "description": "Eight finalists are named for the 2022 BBC Sports Personality Unsung Hero of the Year award.",
+      "url": "http://www.bbc.co.uk/sport/sports-personality/63875454",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1639/production/_126898650_p0d3k74c.jpg",
+      "publishedAt": "2022-12-12T18:52:20.7241171Z",
+      "content": "Eight finalists have been named for the 2022 BBC Sports Personality Unsung Hero of the Year award.\r\nThe honour celebrates the best volunteers in sport, whose work is making a real difference in commu… [+3266 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/5a7/d98/448e09fa7091aec8b5a9be5bc30a4dba35-GettyImages-1400537903.1x.rsocial.w1200.jpg",
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+      "source": { "id": "national-review", "name": "National Review" },
+      "author": "Caroline Downey",
+      "title": "Man Wins Elite Women’s Race at International Cyclocross Tournament",
+      "description": "Killips has an online blog, Estro Junkie, which he calls ‘a newsletter about the intersection of sports and queer theory.’",
+      "url": "https://www.nationalreview.com/news/man-wins-elite-womens-race-at-international-cyclocross-tournament/",
+      "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/10/transgender-flag.jpg?fit=2057%2C1200",
+      "publishedAt": "2022-11-15T02:37:29Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "☄️ NEW ANIME JUST DROPPED ☄️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/289173-ja-vs-zion-anime",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220805052204-01-kyrsten-sinema-080422.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-14T22:07:16.2323649Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221208152115-brittney-griner-plane-vpx.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    }
+  ]
+}
